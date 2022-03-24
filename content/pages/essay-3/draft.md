@@ -27,7 +27,7 @@ Supplementary Readings for Essay 3
 
 . Quammen, David. Chapters 71–77. In _The Song of the Dodo: Island Biogeography in an Age of Extinction_. Reprint edition. Scribner, 1997. ISBN: 9780684827124.
 
-Alagona, Peter S. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Biography of a 'Feathered Pig': The California Condor Conservation Controversy." (PDF)](http://www.history.ucsb.edu/projects/histpublications/files/08238-alagona_2004_jhb.pdf) _Journal of the History of Biology_ 37, no. 3 (2004): 557–583.
+Alagona, Peter S. ["Biography of a 'Feathered Pig': The California Condor Conservation Controversy." (PDF)](http://www.history.ucsb.edu/projects/histpublications/files/08238-alagona_2004_jhb.pdf) _Journal of the History of Biology_ 37, no. 3 (2004): 557–583.
 
 **Cultivating Nature:**
 
