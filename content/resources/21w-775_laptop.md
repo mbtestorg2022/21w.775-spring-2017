@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: dc4448e7-8a4f-afe0-e966-497693391926
 resourcetype: Image
 title: 21W.775_Laptop
 uid: 8dbad1d4-8adb-382f-2900-cecf48066c75
